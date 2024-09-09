@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sangramsingh-suryawanshi-4b7418261" target="_blank">Visit My GitHub Profile</a>
+  <a href="www.linkedin.com/in/sangramsingh-suryawanshi-4b7418261" target="_blank">Visit My LinkedIn Profile</a>
 </p>
