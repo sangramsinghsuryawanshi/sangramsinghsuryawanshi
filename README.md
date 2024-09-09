@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suryawanshi Sangramsingh Sambhaji</h1>
-<h3 align="center">Java Full Stack Developer: Bridging Creativity and Functionality</h3>
-
-
-<br></br>
-- 🌱 I’m currently learning **Java Full Stack Developing**
-
-- 💬 Ask me about **Core java, MySQL, Advance Java , Html ,Css ,Js**
-
-- 📫 How to reach me **suryawanshisangramsinh@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangramsinghsuryawanshi&show_icons=true&locale=en&layout=compact" alt="sangramsinghsuryawanshi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangramsinghsuryawanshi&" alt="sangramsinghsuryawanshi" /></p>
-
+<h1 align="center">Hello! 👋 I'm Suryawanshi Sangramsingh Sambhaji</h1> <h3 align="center">Java Full Stack Developer: Merging Creativity with Cutting-Edge Technology</h3> <p align="center"> <img src="https://img.shields.io/badge/Java-FullStack-007396?style=flat-square&logo=java" alt="Java Full Stack Developer" /> <img src="https://img.shields.io/badge/Skills-Core%20Java%20|%20MySQL%20|%20Advanced%20Java%20|%20HTML%20|%20CSS%20|%20JavaScript-FF5722?style=flat-square" alt="Skills" /> <img src="https://img.shields.io/badge/Status-Currently%20Learning%20Full%20Stack%20Java%20Development-4CAF50?style=flat-square" alt="Learning" /> </p>
+🌱 Currently Learning: Java Full Stack Development
+💬 Ask Me About: Core Java, MySQL, Advanced Java, HTML, CSS, JavaScript
+📫 Reach Me At: suryawanshisangramsinh@gmail.com
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangramsinghsuryawanshi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangramsinghsuryawanshi&" alt="Streak Stats" /> </p> <p align="center"> <a href="https://github.com/sangramsinghsuryawanshi" target="_blank">Visit My GitHub Profile</a> </p>
