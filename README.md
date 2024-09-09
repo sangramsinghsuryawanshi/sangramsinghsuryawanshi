@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangramsinghsuryawanshi&show_icons=true&locale=en" alt="sangramsinghsuryawanshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangramsinghsuryawanshi&" alt="sangramsinghsuryawanshi" /></p>
