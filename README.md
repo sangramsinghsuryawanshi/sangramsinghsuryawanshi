@@ -27,7 +27,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sangramsingh-suryawanshi-4b7418261" target="_blank" style="text-decoration: none;">
-    <span style="background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); font-size: 16px; font-weight: bold;">Visit My LinkedIn Profile</span>
+    <span style="background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); font-size: 16px; font-weight: bold; transition: all 0.3s ease;">
+      <i class="fab fa-linkedin"></i> Visit My LinkedIn Profile
+    </span>
   </a>
 </p>
 
@@ -42,5 +44,11 @@
   100% {
     transform: scale(1);
   }
+}
+
+/* Hover effect for LinkedIn button */
+a:hover span {
+  background-color: #005582;
+  box-shadow: 0px 6px 10px rgba(0,0,0,0.15);
 }
 </style>
