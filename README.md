@@ -32,23 +32,3 @@
     </span>
   </a>
 </p>
-
-<style>
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.05);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-/* Hover effect for LinkedIn button */
-a:hover span {
-  background-color: #005582;
-  box-shadow: 0px 6px 10px rgba(0,0,0,0.15);
-}
-</style>
