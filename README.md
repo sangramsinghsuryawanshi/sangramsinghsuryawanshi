@@ -22,10 +22,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangramsinghsuryawanshi&" alt="Streak Stats" style="box-shadow: 0px 4px 12px rgba(0,0,0,0.1); border-radius: 10px;" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sangramsingh-suryawanshi-4b7418261" target="_blank" style="text-decoration: none;">
     <span style="background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 5px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); font-size: 16px; font-weight: bold; transition: all 0.3s ease;">
       <i class="fab fa-linkedin"></i> Visit My LinkedIn Profile
