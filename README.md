@@ -22,12 +22,12 @@
 </p>
 
 <h4 align="center" style="color:#2f80ed; font-family: 'Arial', sans-serif;">🌟 Why Choose Me?</h4>
-<ul align="center" style="font-size: 18px; list-style-type: none;">
+<p align="center" style="font-size: 18px; list-style-type: none;">
   ✅ Passionate about coding and technology
   ✅ Strong problem-solving skills
   ✅ Eager to learn and adapt to new challenges
   ✅ Committed to delivering high-quality work
-</ul>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sangramsingh-suryawanshi-4b7418261" target="_blank" style="text-decoration: none;">
