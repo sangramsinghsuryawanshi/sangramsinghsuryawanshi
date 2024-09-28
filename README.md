@@ -23,10 +23,10 @@
 
 <h4 align="center" style="color:#2f80ed; font-family: 'Arial', sans-serif;">🌟 Why Choose Me?</h4>
 <ul align="center" style="font-size: 18px; list-style-type: none;">
-  <li>✅ Passionate about coding and technology</li>
-  <li>✅ Strong problem-solving skills</li>
-  <li>✅ Eager to learn and adapt to new challenges</li>
-  <li>✅ Committed to delivering high-quality work</li>
+  ✅ Passionate about coding and technology
+  ✅ Strong problem-solving skills
+  ✅ Eager to learn and adapt to new challenges
+  ✅ Committed to delivering high-quality work
 </ul>
 
 <p align="center">
