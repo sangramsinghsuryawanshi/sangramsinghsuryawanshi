@@ -24,7 +24,6 @@ Software Engineer | Java Full Stack Developer
   <li>🚀 Building modern web applications using Java technologies</li>
   <li>🌱 Continuously improving skills in Spring Boot, Microservices, and Cloud Technologies</li>
   <li>🧠 Strong interest in Data Structures & Algorithms</li>
-  <li>🤝 Open to collaborating on Java and Full Stack projects</li>
   <li>⚡ Passionate about clean code and software architecture</li>
 </ul>
 
