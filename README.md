@@ -73,14 +73,6 @@ Software Engineer | Java Full Stack Developer
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangramsinghsuryawanshi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangramsinghsuryawanshi&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangramsinghsuryawanshi&theme=tokyonight" />
 </p>
 
