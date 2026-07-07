@@ -70,14 +70,6 @@ Software Engineer | Java Full Stack Developer
 
 <hr>
 
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangramsinghsuryawanshi&theme=tokyonight" />
-</p>
-
-<hr>
-
 <h2>🎯 Professional Strengths</h2>
 
 <ul>
