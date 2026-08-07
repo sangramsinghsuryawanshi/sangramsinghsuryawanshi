@@ -6,7 +6,7 @@ Software Engineer | Java Full Stack Developer
 
 <p align="center">
   Passionate Software Engineer with experience in developing scalable applications,
-  backend systems, and full-stack solutions using Java technologies.
+  backend systems and full-stack solutions using Java technologies.
 </p>
 
 <p align="center">
